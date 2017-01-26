@@ -5,7 +5,7 @@
 <br> <br>
 
 > Tampilan AdvancedWidget2<br>
-![Screenshot](https://github.com/miftakhulrohmah/AdvancedWidget2/blob/master/AdvancedWidget2.JPG)<br>
+![Screenshot](https://github.com/karinawidhia/AdvancedWidget2/blob/master/AdvancedWidget2.1.png)<br>
 ![Screenshot](https://github.com/miftakhulrohmah/AdvancedWidget2/blob/master/Screenshot_2016-09-25-20-08-59.png)<br> <br>
 
  >Identitas <br>
